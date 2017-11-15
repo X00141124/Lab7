@@ -1,0 +1,17 @@
+#Logo{
+    background-color: rgb(186, 203, 233);
+}
+
+#Navigation{
+    background-color: #FFB280;
+    color: red;
+    text-decoration: none;
+}
+
+a:hover{
+    color: pink;
+}
+
+#Footer{
+    background-color: #FFFF8C;
+}
